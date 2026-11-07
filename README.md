@@ -6,6 +6,8 @@ Sou estudante do curso Técnico em Desenvolvimento de Sistemas no **SESI/SENAI I
 
 Há cerca de **1 ano**, edito mods para **Farming Simulator 22 (FS22)**. Meus mods já somam **mais de 100 mil downloads no KingMods**.
 
+➡️ [Veja meus mods no KingMods](https://www.kingmods.net/pt/perfil/piazao22)
+
 ### O que estou estudando
 
 - Desenvolvimento web com **HTML** e **CSS**
