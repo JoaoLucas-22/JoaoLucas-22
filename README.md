@@ -2,6 +2,10 @@
 
 Sou estudante do curso Técnico em Desenvolvimento de Sistemas no **SESI/SENAI Itapeva**. Gosto de transformar ideias em páginas e projetos simples, claros e funcionais.
 
+### Mods para Farming Simulator 22 🚜
+
+Há cerca de **1 ano**, edito mods para **Farming Simulator 22 (FS22)**. Meus mods já somam **mais de 100 mil downloads no KingMods**.
+
 ### O que estou estudando
 
 - Desenvolvimento web com **HTML** e **CSS**
