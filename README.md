@@ -1,16 +1,17 @@
-## Hi there 👋
+# Olá, eu sou o João Lucas 👋
 
-<!--
-**JoaoLucas-22/JoaoLucas-22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou estudante do curso Técnico em Desenvolvimento de Sistemas no **SESI/SENAI Itapeva**. Gosto de transformar ideias em páginas e projetos simples, claros e funcionais.
 
-Here are some ideas to get you started:
+### O que estou estudando
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Desenvolvimento web com **HTML** e **CSS**
+- Layouts responsivos e organização de projetos
+- Versionamento com **Git e GitHub**
+
+### Projetos
+
+- [**Agrovant**](https://github.com/JoaoLucas-22/Agrovant) — landing page de um drone agrícola fictício.
+- [**Copa do Mundo**](https://github.com/JoaoLucas-22/Copa_do_Mundo) — projeto sobre a Copa do Mundo.
+- [**Projeto Card**](https://github.com/JoaoLucas-22/Projeto-Card) — exercício de interface com cards.
+
+Estou sempre aprendendo e colocando em prática o que estudo. Explore meus repositórios para acompanhar os próximos projetos.
