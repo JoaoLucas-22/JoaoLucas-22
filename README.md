@@ -11,7 +11,7 @@ Sou estudante do curso Técnico em Desenvolvimento de Sistemas no **SESI/SENAI I
 ### Projetos
 
 - [**Agrovant**](https://github.com/JoaoLucas-22/Agrovant) — landing page de um drone agrícola fictício.
-- [**Copa do Mundo**](https://github.com/JoaoLucas-22/Copa_do_Mundo) — projeto sobre a Copa do Mundo.
-- [**Projeto Card**](https://github.com/JoaoLucas-22/Projeto-Card) — exercício de interface com cards.
+- [**Copa do Mundo**](https://github.com/JoaoLucas-22/Copa_do_Mundo) — página sobre a Inglaterra, sua cultura e seu futebol.
+- [**Projeto Card**](https://github.com/JoaoLucas-22/Projeto-Card) — página de cards sobre picapes.
 
 Estou sempre aprendendo e colocando em prática o que estudo. Explore meus repositórios para acompanhar os próximos projetos.
